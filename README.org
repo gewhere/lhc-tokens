@@ -3,8 +3,14 @@ Interactive prototype for SuperCollider: https://supercollider.github.io/
 
 - A video demo: https://youtu.be/AA78JewyU44
 
+LHC stands for "Live hardware coding", as presented for the first time as a poster in the 1st Live Interfaces in 2012, in U. of Leeds, UK.  The initial commit of the software implementation can be found here: https://github.com/iani/SC/tree/master/Quarks/iz.projects/LHC
+
 
 ** Instructions
 - Move the =lhc-classes= into the =Platform.userExtensionDir= folder (in MacOS =~/Library/Application Support/SuperCollider/Extensions=)
 - Recompile the class library: =thisProcess.recompile=
 - Boot the server (=s.boot=) and run the code in the script: =lhc-tokens-demo.scd=
+
+** Publications
+- Diapoulis, G., & Zannos, I. A minimal interface for live hardware coding. In /Live Interfaces, 2012/, Leeds, UK.
+- Diapoulis, G., & Zannos, I. (2014). Tangibility and low-level live coding. In /International Conference of Computer Music, ICMC 2014/, Athens, Greece.
