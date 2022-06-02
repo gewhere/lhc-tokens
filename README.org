@@ -1,5 +1,5 @@
 * Low-level live coding
-Interactive prototype in SuperCollider
+Interactive prototype for SuperCollider: https://supercollider.github.io/
 
 - https://youtu.be/AA78JewyU44
 
