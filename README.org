@@ -7,4 +7,4 @@ Interactive prototype in SuperCollider
 ** Instructions
 - Move the =lhc-classes= into the =Platform.userExtensionDir= folder (in MacOS =~/Library/Application Support/SuperCollider/Extensions=)
 - Recompile the class library: =thisProcess.recompile=
-- Boot the server and run the code in the script: =lhc-tokens-demo.scd=
+- Boot the server (=s.boot=) and run the code in the script: =lhc-tokens-demo.scd=
