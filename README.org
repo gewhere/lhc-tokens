@@ -1,7 +1,7 @@
 * Low-level live coding
 Interactive prototype for SuperCollider: https://supercollider.github.io/
 
-- https://youtu.be/AA78JewyU44
+- A video demo: https://youtu.be/AA78JewyU44
 
 
 ** Instructions
